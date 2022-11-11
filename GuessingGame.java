@@ -108,7 +108,21 @@ public class GuessingGame {
         }
     }
 
-
+// main method which has the while loop to play a number of guessing games
+//It calls the methid playGame to play a single game inside this loop
+// It collects the statistics and calls the printStatistics method after all the games are played
+//public static void playGuessingGames();
+//play a single game and return the number of guesses in that game
+//public static int playGame(Scanner input, Random r);
+//print the final statistics after all the games are played
+ //public static void printStatistics(int numOfGames, int totalGuesses,int bestGame);
+  // prints the given message using System.out.print
+  //public static void display(String message);
+  //get user response if 'y' return true else false, calls getAnswer method
+  //public static boolean playAgain(Scanner input)
+  }
+  // get a string input from user and return first character in lowercase
+  //public static char getAnswer(Scanner input);
 
 
         
